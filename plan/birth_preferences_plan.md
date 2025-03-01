@@ -1,7 +1,7 @@
 # Birth Preferences Plan
 
 ## Personal Information
-- Mother's name: [Name]
+- Mother's name: Rena Janarthanan
 - Partner's name: [Name]
 - Due date: [Date]
 - Healthcare provider: [Name]
