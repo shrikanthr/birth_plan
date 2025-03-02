@@ -2,17 +2,17 @@
 
 ## Personal Information
 - Mother's name: Rena Janarthanan
-- Partner's name: [Name]
-- Due date: [Date]
-- Healthcare provider: [Name]
-- Hospital/Birth center: [Name]
+- Partner's name: Shrikanth Ramaswamy
+- Due date: 06/06/2025
+- Healthcare provider: Dr. Jenine Hassoun
+- Hospital/Birth center: Overlake Medical Center
 - Doula (if applicable): [Name and contact]
 
 ## Labor Environment Preferences
 - [ ] Dim lighting
 - [ ] Music playing (playlist available on: _____________)
 - [ ] Limited number of people in room
-- [ ] Freedom to move around during labor
+- [X] Freedom to move around during labor
 - [ ] Access to shower/tub if available
 - [ ] Ability to wear own clothing
 - [ ] Bring personal items (specify: pillows, blankets, photos, etc.)
@@ -21,8 +21,8 @@
 
 ## Labor and Delivery Preferences
 ### Mobility and Positioning
-- [ ] Freedom to move and change positions throughout labor
-- [ ] Use of birthing ball, peanut ball, or squatting bar
+- [X] Freedom to move and change positions throughout labor
+- [X] Use of birthing ball, peanut ball, or squatting bar
 - [ ] Preferred birthing positions to try:
   - [ ] Side-lying
   - [ ] Hands and knees
@@ -34,7 +34,7 @@
 ### Pain Management
 - [ ] Prefer to labor without pain medication if possible
 - [ ] Open to pain medication if requested
-- [ ] Planning to use epidural
+- [X] Planning to use epidural
 - [ ] Prefer to avoid epidural unless medically necessary
 - [ ] Would like to discuss options before any pain medication is administered
 - [ ] Preferred comfort measures:
@@ -53,13 +53,14 @@
   - [ ] Saline lock only
   - [ ] No IV unless medically necessary
 - [ ] Preference regarding fetal monitoring:
-  - [ ] Intermittent monitoring
+  - [X] Intermittent monitoring
   - [ ] Continuous external monitoring
   - [ ] Wireless monitoring if available
   - [ ] Internal monitoring only if medically necessary
 - [ ] Preference regarding membrane rupture:
   - [ ] Allow natural rupture only
-  - [ ] Open to artificial rupture if labor is progressing slowly
+    - [ ] If water breaks before contractions start, our preference is to wait for 12 hours and induce if labor has not started. Unless necessary, digital vaginal exams should be avoided during this period.
+  - [X] Open to artificial rupture if labor is progressing slowly
 - [ ] Preference regarding induction methods if needed:
   - [ ] Preferred methods: _____________
   - [ ] Methods to avoid if possible: _____________
@@ -68,7 +69,7 @@
   - [ ] Open to Pitocin if necessary
 - [ ] Preference regarding episiotomy:
   - [ ] Prefer to avoid unless medically necessary
-  - [ ] Prefer natural tearing with support
+  - [X] Prefer natural tearing with support
   - [ ] Prefer warm compresses and perineal massage during pushing
 
 ## Delivery Preferences
@@ -83,20 +84,20 @@
 - [ ] Cord blood banking/donation plans: _____________
 
 ## Cesarean Preferences (if needed)
-- [ ] Partner present during procedure
+- [X] Partner present during procedure
 - [ ] If possible, lower drape or use clear drape to view birth
 - [ ] Delayed cord clamping if possible
 - [ ] Immediate skin-to-skin in OR if possible
 - [ ] If baby must leave OR, partner goes with baby
 - [ ] Explain procedures as they occur
-- [ ] Photos permitted in OR if possible
+- [X] Photos permitted in OR if possible
 - [ ] Preference for anesthesia: _____________
 
 ## Immediate Postpartum Preferences
-- [ ] Immediate skin-to-skin contact
+- [X] Immediate skin-to-skin contact
 - [ ] Delay routine procedures (weighing, measuring, bathing) until after initial bonding time (specify time: _____________)
 - [ ] Assistance with initial breastfeeding in first hour
-- [ ] Partner to hold baby if mother is unable
+- [X] Partner to hold baby if mother is unable
 - [ ] Delay eye ointment until after initial bonding
 - [ ] Preference regarding placenta:
   - [ ] No need to see placenta
@@ -106,7 +107,7 @@
 ## Newborn Care Preferences
 - [ ] Feeding plans:
   - [ ] Exclusive breastfeeding
-  - [ ] Formula supplementation if needed
+  - [X] Formula supplementation if needed
   - [ ] Exclusive formula feeding
 - [ ] If breastfeeding, preference regarding pacifiers and supplemental bottles:
   - [ ] No pacifiers
@@ -126,7 +127,7 @@
 - [ ] Circumcision (for male babies):
   - [ ] Yes, while in hospital
   - [ ] No, will arrange later
-  - [ ] No, not planning to circumcise
+  - [X] No, not planning to circumcise
 - [ ] Bathing:
   - [ ] Delay first bath for at least 24 hours
   - [ ] Parents wish to give first bath
